@@ -1,4 +1,4 @@
-package com.example.android.carzenia.SystemDatabase;
+package com.example.android.carZone.SystemDatabase;
 
 public enum MessageType {
     INQUIRY, ISSUE, COMPLIMENT, OTHER
