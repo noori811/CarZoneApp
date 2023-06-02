@@ -1,4 +1,4 @@
-package com.example.android.carZone.Adapters;
+package com.example.android.carzone.Adapters;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -10,8 +10,8 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.fragment.app.FragmentActivity;
-import com.example.android.carzenia.SystemDatabase.CarModel;
-import com.example.android.carzenia.R;
+import com.example.android.carzone.SystemDatabase.CarModel;
+import com.example.android.carzone.R;
 import com.example.android.carzenia.UserFragments.RentFormFragment;
 import com.squareup.picasso.Picasso;
 
