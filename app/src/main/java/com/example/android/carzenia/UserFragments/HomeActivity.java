@@ -18,10 +18,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.android.carzenia.SystemDatabase.DBHolder;
-import com.example.android.carzenia.SystemDatabase.UserModel;
-import com.example.android.carzenia.UserAuthentication.LoginActivity;
-import com.example.android.carzenia.R;
+import com.example.android.carzone.SystemDatabase.DBHolder;
+import com.example.android.carzone.SystemDatabase.UserModel;
+import com.example.android.carzone.UserAuthentication.LoginActivity;
+import com.example.android.carzone.R;
 import com.google.android.material.navigation.NavigationView;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
