@@ -1,4 +1,4 @@
-package com.example.android.carZone.UserFragments;
+package com.example.android.carzone.UserFragments;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBarDrawerToggle;
