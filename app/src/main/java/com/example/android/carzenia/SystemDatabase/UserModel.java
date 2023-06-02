@@ -1,4 +1,4 @@
-package com.example.android.carzenia.SystemDatabase;
+package com.example.android.carZone.SystemDatabase;
 
 public class UserModel {
 
