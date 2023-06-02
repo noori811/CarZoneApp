@@ -1,4 +1,4 @@
-package com.example.android.carzenia.UserAuthentication;
+package com.example.android.carZone.UserAuthentication;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
