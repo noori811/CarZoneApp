@@ -1,4 +1,4 @@
-package com.example.android.carzenia.UserFragments;
+package com.example.android.carzone.UserFragments;
 
 import android.content.Intent;
 import android.net.Uri;
