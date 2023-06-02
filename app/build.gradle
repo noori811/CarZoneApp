@@ -6,7 +6,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "com.example.android.carzenia"
+        applicationId "com.example.android.carZone"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1
