@@ -1,4 +1,4 @@
-package com.example.android.carZone.UserAuthentication;
+package com.example.android.carzone.UserAuthentication;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -16,11 +16,11 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 
-import com.example.android.carzenia.SystemDatabase.DBHolder;
-import com.example.android.carzenia.R;
-import com.example.android.carzenia.SystemDatabase.UserModel;
-import com.example.android.carzenia.SystemDatabase.UserType;
-import com.example.android.carzenia.UserFragments.HomeActivity;
+import com.example.android.carzonea.SystemDatabase.DBHolder;
+import com.example.android.carzone.R;
+import com.example.android.carzone.SystemDatabase.UserModel;
+import com.example.android.carzone.SystemDatabase.UserType;
+import com.example.android.carzone.UserFragments.HomeActivity;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
