@@ -1,4 +1,4 @@
-package com.example.android.carZone.UserFragments;
+package com.example.android.carzone.UserFragments;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -17,12 +17,12 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.Toast;
 
-import com.example.android.carzenia.SystemDatabase.DBHolder;
-import com.example.android.carzenia.R;
-import com.example.android.carzenia.AdminUserMessages.CustomerMessagesActivity;
-import com.example.android.carzenia.SystemDatabase.MessageModel;
-import com.example.android.carzenia.SystemDatabase.MessageType;
-import com.example.android.carzenia.SystemDatabase.UserModel;
+import com.example.android.carzone.SystemDatabase.DBHolder;
+import com.example.android.carzone.R;
+import com.example.android.carzone.AdminUserMessages.CustomerMessagesActivity;
+import com.example.android.carzone.SystemDatabase.MessageModel;
+import com.example.android.carzone.SystemDatabase.MessageType;
+import com.example.android.carzone.SystemDatabase.UserModel;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.textfield.TextInputEditText;
