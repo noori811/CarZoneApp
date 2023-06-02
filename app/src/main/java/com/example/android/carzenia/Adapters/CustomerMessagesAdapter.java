@@ -1,4 +1,4 @@
-package com.example.android.carZone.Adapters;
+package com.example.android.carzone.Adapters;
 
 import android.content.Context;
 import android.os.Build;
@@ -11,8 +11,8 @@ import androidx.annotation.NonNull;
 import androidx.annotation.RequiresApi;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.android.carzenia.R;
-import com.example.android.carzenia.SystemDatabase.MessageModel;
+import com.example.android.carzone.R;
+import com.example.android.carzone.SystemDatabase.MessageModel;
 
 import java.util.ArrayList;
 import java.util.List;
