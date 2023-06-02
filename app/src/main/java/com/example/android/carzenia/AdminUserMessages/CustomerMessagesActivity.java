@@ -1,4 +1,4 @@
-package com.example.android.carZone.AdminUserMessages;
+package com.example.android.carzone.AdminUserMessages;
 
 import android.os.Bundle;
 import android.view.View;
@@ -9,10 +9,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.android.carzenia.Adapters.CustomerMessagesAdapter;
-import com.example.android.carzenia.R;
-import com.example.android.carzenia.SystemDatabase.DBHolder;
-import com.example.android.carzenia.SystemDatabase.MessageModel;
+import com.example.android.carzone.Adapters.CustomerMessagesAdapter;
+import com.example.android.carzone.R;
+import com.example.android.carzone.SystemDatabase.DBHolder;
+import com.example.android.carzone.SystemDatabase.MessageModel;
 import com.google.firebase.auth.FirebaseAuth;
 
 import java.util.ArrayList;
