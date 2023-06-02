@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rounded_corner"
+    android:orientation="vertical">
+
+    <TextView
+        style="@style/DefaultText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_corner"
+        android:text="About The App"
+        android:textColor="@android:color/white"
+        android:textSize="25dp" />
+
+    <TextView
+        style="@style/DefaultText"
+        android:layout_width="380dp"
+        android:layout_height="347dp"
+        android:text="Welcome to CarZone, your ultimate car rental app designed to revolutionize the way you explore the world. With CarZone, we bring you a seamless and convenient way to rent a car, empowering you to embark on unforgettable journeys with ease , We ensure that each vehicle is meticulously maintained and regularly serviced to guarantee your safety and comfort on the road.."
+        android:textSize="21dp" />
+
+    <TextView
+        style="@style/DefaultText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_small" />
+
+    <Button
+        android:id="@+id/button_contact"
+        style="@style/DefaultText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:background="@drawable/rounded_corner2"
+        android:text="Contact_us"
+        android:textColor="@android:color/black"
+        android:textSize="19dp" />
+
+</LinearLayout>
