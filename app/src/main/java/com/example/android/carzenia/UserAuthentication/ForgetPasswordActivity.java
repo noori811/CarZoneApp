@@ -1,4 +1,4 @@
-package com.example.android.carZone.UserAuthentication;
+package com.example.android.carzone.UserAuthentication;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -13,8 +13,8 @@ import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import com.example.android.carzenia.R;
-import com.example.android.carzenia.SystemDatabase.DBHolder;
+import com.example.android.carzone.R;
+import com.example.android.carzone.SystemDatabase.DBHolder;
 import com.google.android.material.textfield.TextInputLayout;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
