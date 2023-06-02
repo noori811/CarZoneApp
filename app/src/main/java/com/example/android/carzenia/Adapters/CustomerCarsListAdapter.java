@@ -1,4 +1,4 @@
-package com.example.android.carzenia.Adapters;
+package com.example.android.carZone.Adapters;
 
 import android.content.Context;
 import android.os.Bundle;
